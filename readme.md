@@ -1,4 +1,4 @@
-Copyright 2010 - 20120 Sebastiaan Mathôt <s.mathot@cogsci.nl>
+Copyright 2010 - 2012 Sebastiaan Mathôt <s.mathot@cogsci.nl>
 
 About
 -----

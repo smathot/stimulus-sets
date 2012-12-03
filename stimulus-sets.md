@@ -2,6 +2,8 @@
 
 There are many sets of pictures and videos available that have been rated and standardized in various ways. These can be immensely useful as stimuli in psychological experiments. Below you can find links to a few of such stimulus sets. Please leave a comment (or send me a message) if you know about any other good stimulus sets!
 
+The source of this overview can be found at <https://github.com/smathot/stimulus-sets/>. Feel free to submit additions, improvements, and corrections.
+
 Overview
 --------
 
@@ -28,6 +30,7 @@ Pictures:
 Videos:
 
 - [Faces and motion Exeter databases (FAMED)](#famed)
+- [Umla-Runge et al.'s action video clips](#umla-runge)
 
 Amsterdam library of object images (ALOI) <a id='aloi'></a>
 -----------------------------------------
@@ -45,13 +48,15 @@ Bank of standardized stimuli (BOSS) <a id='boss'></a>
 
 **Description**: A large set of full color photos of various objects. Highly recommended.
 
-**License**: Creative Commons Attribution Share Alike 3.0 (CC by-SA)
+**License**: [Creative Commons Attribution-ShareAlike][cc-by-sa]
 
 **Link**: <http://sites.google.com/site/mathieubrodeur/Home/boss>
 
 **Reference 1**: Brodeur, M. B., Dionne-Dostie, E., Montreuil, T., & Lepage, M. (2010). The bank of standardized stimuli (BOSS), a new set of 480 normative photos of objects to be used as visual stimuli in cognitive research. *PloS ONE*, *5*(5), e10773
 
 **Reference 2**: O'Sullivan, M., Lepage, M., Bouras, M., Montreuil, T., Brodeur, M. B. (2012). North-American norms for name disagreement: Pictorial stimuli naming discrepancies. *PLoS ONE*, *7*(10), e47802.
+
+**Reference 3**: Brodeur, M. B., Kehayia, E., Dion-Lessard, G., Chauret, M., Montreuil, T., Dionne-Dostie, E., & Lepage, M. (2012). The bank of standardized stimuli (BOSS): comparison between French and English norms. *Behavior Research Methods*.
 
 Bonin et al.'s set of 299 pictures <a id='bonin'></a>
 ----------------------------------
@@ -82,7 +87,7 @@ Ecological alternative to Snodgrass and Vanderwart <a id='ecoalt'></a>
 
 **Description**: A set of 360 colour photographs of objects, animals, and scenes. Various normative ratings are available.
 
-**License**: Creative Commons Attribution
+**License**: [Creative Commons Attribution][cc-by]
 
 **Link**: <http://dx.plos.org/10.1371/journal.pone.0037527> (see Supporting information for download links)
 
@@ -104,7 +109,7 @@ Geneva affective picture database (GAPED) <a id='gaped'></a>
 
 **Description**: Mostly scenes with a strong valence.
 
-**License**: Creative Commons Attribution NonCommercial Share Alike 3.0 (CC by-NC-SA)
+**License**: [Creative Commons Attribution-NonCommercial-ShareAlike][cc-by-nc]
 
 **Link**: <http://www.affective-sciences.org/researchmaterial>
 
@@ -211,6 +216,17 @@ UB KinFace Database <a id='kinface'></a>
 
 **Reference**: Xia, S., Shao, M., & Fu, Y. (2011). Kinship verification through transfer learning. *International Joint Conferences on Artificial Intelligence*, 2539-2544.
 
+Umla-Runge et al.'s action video clips <a id='umla-runge'></a>
+-------------------------------------
+
+**Description**: 784 videos of actions with familiarity ratings for Eastern and Western cultures.
+
+**License**: ?
+
+**Link**: <http://www.springerlink.com/content/b32254382l261350/13428_2012_Article_189_ESM.html>
+
+**Reference**: Umla-Runge, K., Zimmer, H. D., Fu, X., & Wang, L. (2012). An action video clip database rated for familiarity in China and Germany. *Behavior Research Methods*.
+
 UPenn natural image database <a id='birthplace'></a>
 ----------------------------
 
@@ -222,4 +238,20 @@ UPenn natural image database <a id='birthplace'></a>
 
 **Reference**: Tkačik, G., Garrigan, P., Ratliff, C., Milčinski, G., Klein, J. M., Seyfarth, L. H., Sterling, P., et al. (2011). Natural images from the birthplace of the human eye. *PLoS ONE*, *6*(6), e20409. doi:10.1371/journal.pone.0020409
 
+<!--
+Template <a id=''></a>
+--------
+
+**Description**:
+
+**License**:
+
+**Link**:
+
+**Reference**:
+--!>
+
 [opensesame]: http://www.cogsci.nl/opensesame
+[cc-by]: http://creativecommons.org/licenses/by/3.0
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/3.0
+[cc-by-nc]: http://creativecommons.org/licenses/by-nc/3.0
