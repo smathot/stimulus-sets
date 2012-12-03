@@ -249,7 +249,7 @@ Template <a id=''></a>
 **Link**:
 
 **Reference**:
---!>
+-->
 
 [opensesame]: http://www.cogsci.nl/opensesame
 [cc-by]: http://creativecommons.org/licenses/by/3.0
