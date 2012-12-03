@@ -1,6 +1,6 @@
 <!-- This overview is available under a Creative Commons Attribution 3.0 Unported license -->
 
-There are many sets of pictures and videos available that have been rated and standardized in various ways. These can be immensely useful as stimuli in psychological experiments. Below you can find links to a few of such stimulus sets. Please leave a comment (or send me a message) if you know about any other good stimulus sets!
+There are many sets of pictures and videos available that have been rated and standardized in various ways. These can be immensely useful as stimuli in psychological experiments.
 
 The source of this overview can be found at <https://github.com/smathot/stimulus-sets/>. Feel free to submit additions, improvements, and corrections.
 
