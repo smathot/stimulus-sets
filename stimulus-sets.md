@@ -22,7 +22,7 @@ Pictures:
 - [Nishimoto et al.'s set of 360 pictures](#nishimoto)
 - [A pool of pairs of related objects (POPORO)](#poporo)
 - [Psychological image collection at Stirling (PICS)](#pics)
-- [evised Snodgrass and Vanderwart object pictorial set](#rsnod)
+- [Revised Snodgrass and Vanderwart object pictorial set](#rsnod)
 - [Snodgrass and Vanderwart object pictorial set](#snod)
 - [UB KinFace Database](#kinface)
 - [UPenn natural image database](#birthplace)
@@ -100,7 +100,7 @@ Faces and motion Exeter database (FAMED) <a id='famed'></a>
 
 **License**: Restrictive, but free for academic use.
 
-**Link**: http://www.chrislongmore.co.uk/famed/index.html
+**Link**: <http://www.chrislongmore.co.uk/famed/index.html>
 
 **Reference**: ?
 
@@ -232,7 +232,7 @@ UPenn natural image database <a id='birthplace'></a>
 
 **Description**: A collection of photos of the Okavango Delta of Botswana, a savanna habitat where humans (and their eyes) presumably evolved. It's a bit quirky, perhaps, but I like the concept.
 
-**License**: Creative Commons Attribution NonCommercial Unported 3.0 (CC by-NC)
+**License**: [Creative Commons Attribution-NonCommercial][cc-by-nc]
 
 **Link**: <http://tofu.psych.upenn.edu/~upennidb/>
 
