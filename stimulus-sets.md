@@ -2,12 +2,17 @@
 
 There are many sets of pictures and videos available that have been rated and standardized in various ways. These can be immensely useful as stimuli in psychological experiments.
 
-The source of this overview can be found at <https://github.com/smathot/stimulus-sets/>. Feel free to submit additions, improvements, and corrections.
+The source of this overview can be found at <https://github.com/smathot/stimulus-sets/>. Feel free to submit additions, improvements, and corrections. If you are looking for free software to *present* these stimuli, take a look at [OpenSesame](http://osdoc.cogsci.nl)!
 
 Overview
 --------
 
-Pictures:
+Miscellaneous:
+
+- [Tips for creators](#tips)
+- [Presentation software](#opensesame)
+
+Picture sets:
 
 - [Amsterdam library of object images (ALOI)](#aloi)
 - [Bank of standardized stimuli (BOSS)](#boss)
@@ -18,6 +23,7 @@ Pictures:
 - [Geneva affective picture database (GAPED)](#gaped)
 - [HatField image test](#hatfield)
 - [International affective pictures system (IAPS)](#iaps)
+- [Migo et al.'s photos with similarity information](#migo)
 - [Natural scenes collection (nature/ campus scenes)](#natural_scenes_collection)
 - [Nishimoto et al.'s set of 360 pictures](#nishimoto)
 - [A pool of pairs of related objects (POPORO)](#poporo)
@@ -27,10 +33,23 @@ Pictures:
 - [UB KinFace Database](#kinface)
 - [UPenn natural image database](#birthplace)
 
-Videos:
+Video sets:
 
 - [Faces and motion Exeter databases (FAMED)](#famed)
 - [Umla-Runge et al.'s action video clips](#umla-runge)
+
+Tips for creators {#tips}
+-----------------
+
+If you have created a stimulus set yourself, here are a few tips:
+
+- Choose a license for distributing your work. As you can see in the list below, many creators do not specify a license. Unlicensed work is non-free by default, which is problematic for usage and sharing. For a useful guide, see <http://creativecommons.org/choose/>.
+- Upload your work to an easily accessible location. *Do not* upload your stimuli as supplementary information on a (paywalled) publisher's website. A good site for uploading academic material is [FigShare](http://www.figshare.com).
+
+Presentation software {#opensesame}
+---------------------
+
+If you are looking for software to present stimuli, take a look at [OpenSesame](http://osdoc.cogsci.nl), a free and graphical experiment builder.
 
 Amsterdam library of object images (ALOI) <a id='aloi'></a>
 -----------------------------------------
@@ -136,6 +155,18 @@ International affective pictures system (IAPS) <a id='iaps'></a>
 **Link**: <http://csea.phhp.ufl.edu/media.html>
 
 **Reference**: Lang, P.J., Bradley, M.M., & Cuthbert, B.N. (2008). *International affective picture system (IAPS): Affective ratings of pictures and instruction manual. Technical Report A-8*. University of Florida, Gainseville, FL
+
+Migo et al.'s photos with similarity information <a id='migo'></a>
+--------
+
+**Description**: A collection of gray-scale photos, with similarity ratings for pairs of objects within a set (for example, the similarity between pairs of different pens). The idea is very nice, but unfortunately the quality of the photos is fairly low. Also, the stimuli are paywalled together with the paper.
+
+**License**: ?
+
+**Link**: <http://link.springer.com/article/10.3758/s13428-012-0255-4/fulltext.html>
+
+**Reference**: Migo, E. M., Montaldi, D., & Mayes, A. R. (2013). A visual object stimulus database with standardized similarity information. *Behavior Research Methods*, *45*(2), 344–354. doi:10.3758/s13428-012-0255-4
+
 
 Natural scenes collection (nature/ campus scenes) <a id='natural_scenes_collection'></a>
 -------------------------------------------------
