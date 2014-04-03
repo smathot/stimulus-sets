@@ -2,7 +2,7 @@
 
 There are many sets of pictures and videos available that have been rated and standardized in various ways. These can be immensely useful as stimuli in psychological experiments.
 
-The source of this overview can be found at <https://github.com/smathot/stimulus-sets/>. Feel free to submit additions, improvements, and corrections. *Last update: %-- exec: "date +%x" --%*
+The source of this overview can be found at <https://github.com/smathot/stimulus-sets/>. Feel free to submit additions, improvements, and corrections.
 
 ## Overview
 
@@ -215,6 +215,16 @@ If you are looking for software to present stimuli, take a look at [OpenSesame](
 **Link**: <http://tofu.psych.upenn.edu/~upennidb/>
 
 **Reference**: Tkačik, G., Garrigan, P., Ratliff, C., Milčinski, G., Klein, J. M., Seyfarth, L. H., Sterling, P., et al. (2011). Natural images from the birthplace of the human eye. *PLoS ONE*, *6*(6), e20409. doi:10.1371/journal.pone.0020409
+
+### What do saliency models predict?
+
+**Desription**: A set of images that includes subjective saliency ratings.
+
+**License**: ?
+
+**Link**: <https://labs.psych.ucsb.edu/eckstein/miguel/research_pages/saliencydata.html>
+
+**Reference**: Koehler, K., Guo, F., Zhang, S., & Eckstein, M. P. (2014). What do saliency models predict? *Journal of Vision*, *14*(3), 14, 1-27. doi:10.1167/14.3.14
 
 ## Video sets
 
