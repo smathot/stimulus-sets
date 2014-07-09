@@ -60,6 +60,16 @@ If you are looking for software to present stimuli, take a look at [OpenSesame](
 
 **Reference**: Bonin, P., Peereman, R., Malardier, N., Méot, A., & Chalard, M. (2003). A new set of 299 pictures for psycholinguistic studies: French norms for name agreement, image agreement, conceptual familiarity, visual complexity, image variability, age of acquisition, and naming latencies. *Behavior Research Methods, Instruments, & Computers*, *35*(1), 158-167.
 
+### CAT dataset
+
+**Description**: A database of 10,000 cat images. All images are annotated with nine points, indicating facial landmarks.
+
+**License**: ?
+
+**Link**: <http://137.189.35.203/WebUI/CatDatabase/catData.html>
+
+**Reference**: Zhang, W., Sun, J., & Tang, X. (2008). Cat Head Detection - How to Effectively Exploit Shape and Texture Features, *Proc. of European Conf. Computer Vision*, *4*, 802-816.
+
 ### CIPR still images
 
 **Description**: A collection of images. Just images, no additional information is provided.
@@ -111,6 +121,16 @@ If you are looking for software to present stimuli, take a look at [OpenSesame](
 **Link**: <http://csea.phhp.ufl.edu/media.html>
 
 **Reference**: Lang, P.J., Bradley, M.M., & Cuthbert, B.N. (2008). *International affective picture system (IAPS): Affective ratings of pictures and instruction manual. Technical Report A-8*. University of Florida, Gainseville, FL
+
+### Face place
+
+**Description**: Multiple images, with different views, emotions, and disguises, of over 200 individuals of many different races.
+
+**License**: [Creative Commons Attribution-NonCommercial-ShareAlike][cc-by-nc]
+
+**Link**: <http://wiki.cnbc.cmu.edu/Face_Place>
+
+**Reference**: Righi, G., Peissig, J. J., & Tarr, M. J. (2012). Recognizing disguised faces. *Visual Cognition*, *20*(2), 143-169. doi:10.1080/13506285.2012.654624
 
 ### Migo et al.'s photos with similarity information
 
@@ -180,7 +200,7 @@ If you are looking for software to present stimuli, take a look at [OpenSesame](
 
 **License**: ?
 
-**Link**: <http://www.nefy.ucl.ac.be/facecatlab/stimuli.htm>
+**Link**: <http://wiki.cnbc.cmu.edu/Objects> (Unofficial)
 
 **Reference**: Rossion, B., & Pourtois, G. (2004). Revisiting Snodgrass and Vanderwart’s object pictorial set: The role of surface detail in basic-level object recognition. *Perception*, *33*(2), 217-236.
 
@@ -188,9 +208,9 @@ If you are looking for software to present stimuli, take a look at [OpenSesame](
 
 **Description**: A classic set of black and white line drawings. Apparently there are some licensing issues and, despite the fact that this is a widely known set of pictures, it seems hard to get a hold of them. I would recommend using the revised set by Rossion & Pourtois instead.
 
-**Link**: ?
+**License**:
 
-**License**: ?
+**Link**: <http://wiki.cnbc.cmu.edu/Objects> (Unofficial)
 
 **Reference**: Snodgrass, J. G., & Vanderwart, M. (1980). A standardized set of 260 pictures: Norms for name agreement, image agreement, familiarity, and visual complexity. *Journal of Experimental Psychology: Human Learning & Memory*, *6*(2), 174-215. doi:10.1037/0278-7393.6.2.174
 
@@ -198,9 +218,9 @@ If you are looking for software to present stimuli, take a look at [OpenSesame](
 
 **Description**: A large set of photos of people with information about kinship (e.g., the person in photo X is the father of the person in photo Y).
 
-**Link**: <http://www.cse.buffalo.edu/~yunfu/research/Kinface/Kinface.htm>
-
 **License**: Free for academic use
+
+**Link**: <http://www.cse.buffalo.edu/~yunfu/research/Kinface/Kinface.htm>
 
 **Reference**: Xia, S., Shao, M., & Fu, Y. (2011). Kinship verification through transfer learning. *International Joint Conferences on Artificial Intelligence*, 2539-2544.
 
@@ -247,8 +267,7 @@ If you are looking for software to present stimuli, take a look at [OpenSesame](
 **Link**: <http://www.springerlink.com/content/b32254382l261350/13428_2012_Article_189_ESM.html>
 
 <!--
-Template <a id=''></a>
---------
+### Template
 
 **Description**:
 
