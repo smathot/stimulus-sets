@@ -174,6 +174,16 @@ If you are looking for software to present stimuli, take a look at [OpenSesame](
 
 **Reference**: Nishimoto, T., Ueda, T., Miyawaki, K., Une, Y., & Takahashi, M. (2012). The role of imagery-related properties in picture naming: A newly standardized set of 360 pictures for Japanese. *Behavior Research Methods*.
 
+### Normative ratings for flanker stimuli
+
+**Description**: A set of shapes, symbols, letters, false fonts, and digits with various normative ratings.
+
+**License**: [Creative Commons Attribution][cc-by]
+
+**Link**: <http://dx.doi.org/10.6084/m9.figshare.977864>
+
+**Reference**: Chanceaux, M., Mathôt, S., & Grainger, J. (2014). Effects of number, complexity, and familiarity of flankers on crowded letter identification. *Journal of Vision*, *14*(6), 7. doi:10.1167/14.6.7
+
 ### A pool of pairs of related objects (POPORO)
 
 **Description**: A collection of pairs of objects with norms for semantic relatedness. Validated using both behavioural measures and EEG.
@@ -203,6 +213,16 @@ If you are looking for software to present stimuli, take a look at [OpenSesame](
 **Link**: <http://wiki.cnbc.cmu.edu/Objects> (Unofficial)
 
 **Reference**: Rossion, B., & Pourtois, G. (2004). Revisiting Snodgrass and Vanderwart’s object pictorial set: The role of surface detail in basic-level object recognition. *Perception*, *33*(2), 217-236.
+
+### Segmentation evaluation database
+
+**Description**: A large database of grayscale photos of one or two objects collected from various sources. The primary goal of this database is to test image-segmentation algorithms.
+
+**License**: Varies per photo.
+
+**Link**: <http://www.wisdom.weizmann.ac.il/~vision/Seg_Evaluation_DB>
+
+**Reference**: ?
 
 ### Snodgrass and Vanderwart object pictorial set
 
@@ -265,18 +285,6 @@ If you are looking for software to present stimuli, take a look at [OpenSesame](
 **License**: ?
 
 **Link**: <http://www.springerlink.com/content/b32254382l261350/13428_2012_Article_189_ESM.html>
-
-<!--
-### Template
-
-**Description**:
-
-**License**:
-
-**Link**:
-
-**Reference**:
--->
 
 [opensesame]: http://www.cogsci.nl/opensesame
 [cc-by]: http://creativecommons.org/licenses/by/3.0
