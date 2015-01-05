@@ -132,6 +132,17 @@ If you are looking for software to present stimuli, take a look at [OpenSesame](
 
 **Reference**: Righi, G., Peissig, J. J., & Tarr, M. J. (2012). Recognizing disguised faces. *Visual Cognition*, *20*(2), 143-169. doi:10.1080/13506285.2012.654624
 
+### FaceScrub
+
+**Description**: FaceSrub comprises a total of 107,818 face images of male and female 530 celebrities, with about 200 images per person. The images were retrieved from the Internet and are taken under real-world situations (uncontrolled conditions). Name and gender annotations of the faces are included.
+
+**License**: [Creative Commons NonCommercial-NoDerivs][cc-by-nc-nd]
+
+**Link**: <http://vintage.winklerbros.net/facescrub.html>
+
+**Referece**: Ng, H.W., & Winkler, S. (2014). A data-driven approach to cleaning large face datasets.
+Proc. *IEEE International Conference on Image Processing (ICIP)*. Retrieved from <http://vintage.winklerbros.net/Publications/icip2014a.pdf>
+
 ### Migo et al.'s photos with similarity information
 
 **Description**: A collection of gray-scale photos, with similarity ratings for pairs of objects within a set (for example, the similarity between pairs of different pens). The idea is very nice, but unfortunately the quality of the photos is fairly low. Also, the stimuli are paywalled together with the paper.
@@ -290,3 +301,4 @@ If you are looking for software to present stimuli, take a look at [OpenSesame](
 [cc-by]: http://creativecommons.org/licenses/by/3.0
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/3.0
 [cc-by-nc]: http://creativecommons.org/licenses/by-nc/3.0
+[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/3.0/
