@@ -102,6 +102,16 @@ If you are looking for software to present stimuli, take a look at [OpenSesame](
 
 **Reference**: Dan-Glauser, E. S., & Scherer, K. R. (2011). The Geneva affective picture database (GAPED): a new 730-picture database focusing on valence and normative significance. *Behavior Research Methods*. doi:10.3758/s13428-011-0064-1
 
+### Graspable objects and matched non-objects
+
+**Description**: A set of graspable objects and non-objects. Each non-object is matched to a real object in terms of texture, using a texture-synthesis algorithm, and shape.
+
+**License**: Mixed license, see download page for details
+
+**Link**: <https://bitbucket.org/lvanderlinden/materials-004-jov>
+
+**Reference**: van der Linden, L., Mathôt, S., Vitu, F. (2015). *The role of object affordances and center of gravity in eye movements towards isolated daily-life objects. Journal of Vision*. *15*(5), 1-18. doi:10.1167/15.5.8
+
 ### HatField image test
 
 **Description**: A set of high-quality colour photographs, chosen to span a wide range of categories and naming difficulties.
@@ -194,6 +204,16 @@ Proc. *IEEE International Conference on Image Processing (ICIP)*. Retrieved from
 **Link**: <http://dx.doi.org/10.6084/m9.figshare.977864>
 
 **Reference**: Chanceaux, M., Mathôt, S., & Grainger, J. (2014). Effects of number, complexity, and familiarity of flankers on crowded letter identification. *Journal of Vision*, *14*(6), 7. doi:10.1167/14.6.7
+
+### Novel Object and Unusual Name Database (NOUN)
+
+**Description**: Database of images of novel, unusual objects for experimental research. The database includes 64 primary stimuli and a collection of 10 novel categories, each including three exemplars.
+
+**License**: ?
+
+**Link**: <http://michaelhout.com/?page_id=759>
+
+**Reference**: Horst, J. S., & Hout, M. C. (in press). The Novel Object and Unusual Name (NOUN) Database: A collection of novel images for use in experimental research. *Behavior Research Methods*.
 
 ### A pool of pairs of related objects (POPORO)
 
