@@ -26,6 +26,16 @@ If you are looking for software to present stimuli, take a look at [OpenSesame](
 
 ## Picture sets
 
+### Fractals and natural scenes
+
+**Description**: A collection of fractals and natural images with visual-search targets (a small F or H) embedded in them. The fractals are original. The natural images are adapted from the [UPenn natural image database](#UPenn-natural-image-database). For each image, a pupillary luminance map and saliency map is available (see paper for details).
+
+**License**: [Creative Commons Attribution][cc-by]
+
+**Link**: <https://github.com/smathot/materials_for_P0010.5>
+
+**Reference**: Mathôt, S., Siebold, A., Donk, M., & Vitu, F. (2015). Large pupils predict goal-driven eye movements. *Journal of Experimental Psychology: General*, *144*(3), 513-521. doi:10.1037/a0039168
+
 ### Amsterdam library of object images (ALOI)
 
 **Description**: An extensive set of photos of small objects. The viewing angles and lighting conditions (illumination angle and color) have been systematically varied for each object. Stereo images ("3D") are also inluded.
@@ -209,7 +219,7 @@ Proc. *IEEE International Conference on Image Processing (ICIP)*. Retrieved from
 
 **Description**: Database of images of novel, unusual objects for experimental research. The database includes 64 primary stimuli and a collection of 10 novel categories, each including three exemplars.
 
-**License**: ?
+**License**: [Creative Commons Attribution NonCommercial][cc-by-nc]
 
 **Link**: <http://michaelhout.com/?page_id=759>
 
