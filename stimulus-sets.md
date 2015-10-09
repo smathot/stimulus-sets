@@ -88,7 +88,17 @@ If you are looking for software to present stimuli, take a look at [OpenSesame](
 
 **Link**: <http://www.cipr.rpi.edu/resource/stills/>
 
-**References**: ?
+**Reference**: ?
+
+### Dartmouth database of children’s faces
+
+**Description**: Contains images of 40 male and 40 female models between the ages of 6 and 16. Models are photographed on a black background and are wearing black bibs and black hats to cover hair and ears. They are photographed from 5 different camera angles and pose 8 different facial expressions. Models were rated by independent raters and are ranked for the overall believability of their poses.
+
+**License**: [Dartmouth College](http://www.faceblind.org/social_perception/K_Dalrymple/DDCFLicenseAgreement.pdf) (custom license)
+
+**Link**: http://www.faceblind.org/social_perception/K_Dalrymple/DDCF.html
+
+**Reference**: Dalrymple, K.A., Gomez, J., & Duchaine, B. (2013). The Dartmouth Database of Children's Faces: Acquisition and validation of a new face stimulus set. *PLoS ONE*, *8*(11), e79131. doi:10.1371/journal.pone.0079131
 
 ### Ecological alternative to Snodgrass and Vanderwart
 
